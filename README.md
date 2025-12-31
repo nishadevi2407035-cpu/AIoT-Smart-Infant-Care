@@ -26,5 +26,12 @@ Baby Cradle -> Sound Sensor -> Microcontroller -> AI Model -> Caretaker Alerts -
 - System detects cries and sends alerts.  
 - Caretaker escalation occurs if primary does not respond.
 
+## Next Steps
+- Integrate AI model for real-time cry classification
+- Connect ESP32 sensor to cloud database
+- Build full web & mobile dashboard
+- Add multi-language support
+- Implement multi-level caretaker escalation
+
 ## Contributors
 - Nisha Devi (Team Lead)
